@@ -45,8 +45,12 @@ This repository contains all SQL, R scripts, and outputs used for the analysis o
 
 ---
 
-## 👩‍💻 Authors
+**Group 2 – SPH5104, Semester 2 AY 2024/2025**
 
-**Group 2 – SPH5104, Semester 2 AY 2024/2025**  
-Project Lead: Nikita Khoo  
-Contact: `e1500775@u.nus.edu`
+- Chang Mei-Ying  
+- Goh Jie Lin Claire Marie  
+- Heng Chuhua  
+- Khoo Xue Ni, Nikita *(Project Lead)*  
+- Liu Mao Sheng  
+- Tay Kian Wei  
+- Zanaria Binte Husin00775@u.nus.edu`
