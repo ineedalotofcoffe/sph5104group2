@@ -50,7 +50,7 @@ This repository contains all SQL, R scripts, and outputs used for the analysis o
 - Chang Mei-Ying  
 - Goh Jie Lin Claire Marie  
 - Heng Chuhua  
-- Khoo Xue Ni, Nikita *(Project Lead)*  
+- Khoo Xue Ni, Nikita  
 - Liu Mao Sheng  
-- Tay Kian Wei  
-- Zanaria Binte Husin00775@u.nus.edu`
+- Tay Kian Wei  *(Project Lead)* 
+- Zanaria Binte Husin
